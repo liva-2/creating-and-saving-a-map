@@ -72,5 +72,4 @@ export TURTLEBOT3_MODEL=waffle
 ```
 rosrun map_server map_saver -f ~/map
 ```
-### creating and saving a map using AVG with SLAM approach
-* i created and saved the map following this github steps: https://github.com/wh200720041/warehouse_simulation_toolkit
+
